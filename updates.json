@@ -7,8 +7,8 @@
   },
   "darwin-x64-prod": {
     "readme": "Second Release",
-    "update": "https://raw.githubusercontent.com/chethankumar/studio/master/release.json",
-    "install": "https://github.com/chethankumar/studio/releases/download/v1.1/IBM.Digital.App.Studio-0.39.0-mac.zip",
+    "update": "https://raw.githubusercontent.com/MobileFirst-Platform-Developer-Center/digital-app-studio-updater/master/release.json",
+    "install": "https://github.com/MobileFirst-Platform-Developer-Center/digital-app-studio-updater/releases/download/Mac-release/IBM.Digital.App.Studio-0.39.0-mac.zip",
     "version": "0.39.0"
   },
   "linux-x64-prod": {
