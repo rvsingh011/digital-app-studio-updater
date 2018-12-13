@@ -1,1 +1,1 @@
-# digital-app-studio-updater
+# Auto Updates for Digital App Studio
