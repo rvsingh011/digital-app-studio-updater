@@ -1,15 +1,15 @@
 {
     "win32-x64-prod": {
         "readme": "Second release", 
-        "version": "0.91.4", 
+        "version": "0.91.2", 
         "update": "https://github.com/rvsingh011/digital-app-studio-updater/releases/download/windows/", 
-        "install": "https://github.com/rvsingh011/digital-app-studio-updater/releases/download/windows/IBM.Digital.App.Builder.Setup.0.91.4.exe"
+        "install": "https://github.com/rvsingh011/digital-app-studio-updater/releases/download/windows/IBM.Digital.App.Builder.Setup.0.91.2.exe"
     }, 
     "darwin-x64-prod": {
         "readme": "Second Release", 
-        "version": "0.91.4", 
+        "version": "0.91.2", 
         "update": "https://raw.githubusercontent.com/rvsingh011/digital-app-studio-updater/master/release.json", 
-        "install": "https://github.com/rvsingh011/digital-app-studio-updater/releases/download/Mac-release/IBM.Digital.App.Builder-0.91.4-mac.zip"
+        "install": "https://github.com/rvsingh011/digital-app-studio-updater/releases/download/Mac-release/IBM.Digital.App.Builder-0.91.2-mac.zip"
     }, 
     "linux-x64-prod": {
         "version": "0.0.2", 
